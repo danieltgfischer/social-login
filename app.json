@@ -1,0 +1,7 @@
+{
+	"expo": {
+		"name": "social-login",
+		"slug": "social-login",
+		"scheme": "com.danieltfischer.social-login"
+	}
+}
